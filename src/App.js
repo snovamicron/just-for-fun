@@ -35,7 +35,7 @@ function App() {
         <div className="mb-3">
           <label htmlFor="exampleFormControlInput1" className="form-label">Enter Your Name please</label>
           <input type="email" className="form-control w-100" id="exampleFormControlInput1"  onChange={f}/>
-          <button type="button" className="btn btn-info my-3" onClick={showData} >Submit</button>
+          <button type="button" className="btn btn-danger my-3" onClick={showData} >Submit</button>
           <h1>{result}</h1>
         </div>
       </div>
