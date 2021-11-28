@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/just-for-fun/static/js/main.d3971c32.chunk.js",
+    "main.js.map": "/just-for-fun/static/js/main.d3971c32.chunk.js.map",
+    "runtime-main.js": "/just-for-fun/static/js/runtime-main.d4758de5.js",
+    "runtime-main.js.map": "/just-for-fun/static/js/runtime-main.d4758de5.js.map",
+    "static/js/2.7ad035b1.chunk.js": "/just-for-fun/static/js/2.7ad035b1.chunk.js",
+    "static/js/2.7ad035b1.chunk.js.map": "/just-for-fun/static/js/2.7ad035b1.chunk.js.map",
+    "index.html": "/just-for-fun/index.html",
+    "static/js/2.7ad035b1.chunk.js.LICENSE.txt": "/just-for-fun/static/js/2.7ad035b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4758de5.js",
+    "static/js/2.7ad035b1.chunk.js",
+    "static/js/main.d3971c32.chunk.js"
+  ]
+}
